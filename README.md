@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hii there 👋
 
 <!--
 **kajalp23/kajalp23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:woman_student: I am Computer Science and Engineering Undergrad who has a keen interest in data structures and algorithms. 
+
+:woman_technologist: Passionate for Competitive Programming!!
